@@ -29,7 +29,7 @@ function App() {
   }, [images]);
   return (
     <>
-       <div className='bg-[#000000] py-10 px-14 flex flex-col h-screen w-screen relative'>
+       <div className='bg-[#000000] pt-4 px-14 flex flex-col h-screen w-screen relative'>
           <div className='flex text-white flex-row justify-between items-center'>
             <p>dfdgd</p>
             <div className=' flex flex-row gap-8 max-md:hidden'>
@@ -95,7 +95,7 @@ function App() {
                   key={index}
                   src={imgSrc}
                   alt={`Image ${index + 1}`}
-                  className="object-cover m-0 p-0 border-2 border-white rounded-full"
+                  className="object-cover m-0 p-0 border-2 border-white rounded-md"
                   style={{ height: '150px', width: '150px' }}
                 />
               ))}
