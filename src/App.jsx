@@ -50,7 +50,7 @@ function App() {
             </div>
           </div>
 
-          <div className='grid grid-cols-2 max-md:grid-cols-1 pt-10 w-full'>
+          <div className='grid grid-cols-2 max-md:grid-cols-1 pt-10 w-full mt-6'>
 
             <div className='flex flex-col  text-white gap-3'>
               <div className='flex flex-col gap-8'>
