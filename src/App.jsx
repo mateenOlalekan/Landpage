@@ -31,7 +31,7 @@ function App() {
     <>
        <div className='bg-[#000000] pt-4 px-14 flex flex-col h-screen w-screen relative'>
           <div className='flex text-white flex-row justify-between items-center'>
-            <p>dfdgd</p>
+            <p>DigitalB</p>
             <div className=' flex flex-row gap-8 max-md:hidden'>
               <a>Services</a>
               <a>Project</a>
