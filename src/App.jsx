@@ -29,7 +29,7 @@ function App() {
   }, [images]);
   return (
     <>
-       <div className='bg-[#000000] pt-4 px-14 flex flex-col h-screen w-screen relative'>
+       <div className='bg-[#000000] py-4 px-14 flex flex-col h-auto w-screen relative'>
           <div className='flex text-white flex-row justify-between items-center'>
             <p>DigitalB</p>
             <div className=' flex flex-row gap-8 max-md:hidden'>
