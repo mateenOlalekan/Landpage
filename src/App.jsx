@@ -46,7 +46,7 @@ function App() {
                 Sign Up
               </button>
 
-              <FaBars className="text-white mt-1 text-3xl lg:hidden max-lg v:block"/>
+              <FaBars className="text-white mt-1 text-3xl lg:hidden max-md:block"/>
             </div>
           </div>
 
